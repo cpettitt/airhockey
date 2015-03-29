@@ -1,0 +1,33 @@
+{
+  "name": "airhockey",
+  "version": "0.0.1",
+  "description": "Exploring basic game concepts with air hockey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Pettitt <cpettitt@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "connect-livereload": "^0.5.3",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.2",
+    "gulp-livereload": "^3.8.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-util": "^3.0.4",
+    "gulp-watch": "^4.1.1",
+    "jshint-stylish": "^1.0.1",
+    "vinyl-source-stream": "^1.1.0",
+    "vinyl-transform": "^1.0.0",
+    "watchify": "^2.4.0"
+  },
+  "dependencies": {
+    "express": "^4.12.2",
+    "p2": "^0.6.0",
+    "pixi.js": "^2.2.8",
+    "stats-js": "^1.0.0-alpha1",
+    "v2": "0.0.1"
+  }
+}

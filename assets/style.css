@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+#stats {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#game {
+    cursor: none;
+}
+
+#game canvas {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#overhang {
+    height: 20px;
+}
